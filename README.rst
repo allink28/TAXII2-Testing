@@ -1,0 +1,1 @@
+pip install taxii2-client
